@@ -7,3 +7,5 @@ print("Merge conflict")
 
 print("test2")
 
+print("another new print line")
+
