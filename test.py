@@ -9,3 +9,4 @@ print("test2")
 
 print("another new print line")
 
+print("no more merge commits")
